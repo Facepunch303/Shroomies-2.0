@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Shroomies_2._0.MainPage">
+
+    <StackLayout>
+        
+        <Frame Padding="0, 1" CornerRadius="0">
+            <Image Source="Logo.png" HeightRequest="600"/>
+            <!-- <Label Text="Welcome to Shroomies control center!" HorizontalTextAlignment="Center" TextColor="White" FontSize="42"/>
+            -->
+        </Frame>
+        <FlexLayout JustifyContent="center">
+            
+
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Button x:Name="Button1" Grid.Row="0" CornerRadius="50" BackgroundColor="LightGray" Text="Control" TextColor="White" Font="20" Margin="0,0,0,0">
+                </Button>
+
+                <Button x:Name="Button2" Clicked="BtnClicked" Grid.Row="1" CornerRadius="50" BackgroundColor="LightGray" Text="Read Values" TextColor="White" Font="20" Margin="0,0,0,0">
+                </Button>
+            </Grid>
+
+        </FlexLayout>
+
+        
+        <Label>
+            <Label.FormattedText>
+                <FormattedString>
+                    <FormattedString.Spans>
+                        <Span Text="Version 2.0"/>
+                    </FormattedString.Spans>
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+    </StackLayout>
+
+</ContentPage>

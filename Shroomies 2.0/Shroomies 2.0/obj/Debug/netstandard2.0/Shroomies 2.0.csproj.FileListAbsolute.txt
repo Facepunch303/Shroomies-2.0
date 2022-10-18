@@ -1,0 +1,10 @@
+C:\Users\Bryan\source\repos\Shroomies 2.0\Shroomies 2.0\Shroomies 2.0\obj\Debug\netstandard2.0\Shroomies 2.0.csproj.AssemblyReference.cache
+C:\Users\Bryan\source\repos\Shroomies 2.0\Shroomies 2.0\Shroomies 2.0\obj\Debug\netstandard2.0\Shroomies 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan\source\repos\Shroomies 2.0\Shroomies 2.0\Shroomies 2.0\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Bryan\source\repos\Shroomies 2.0\Shroomies 2.0\Shroomies 2.0\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Bryan\source\repos\Shroomies 2.0\Shroomies 2.0\Shroomies 2.0\obj\Debug\netstandard2.0\Shroomies 2.0.AssemblyInfoInputs.cache
+C:\Users\Bryan\source\repos\Shroomies 2.0\Shroomies 2.0\Shroomies 2.0\obj\Debug\netstandard2.0\Shroomies 2.0.AssemblyInfo.cs
+C:\Users\Bryan\source\repos\Shroomies 2.0\Shroomies 2.0\Shroomies 2.0\obj\Debug\netstandard2.0\Shroomies 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\source\repos\Shroomies 2.0\Shroomies 2.0\Shroomies 2.0\obj\Debug\netstandard2.0\Shroomies 2.0.dll
+C:\Users\Bryan\source\repos\Shroomies 2.0\Shroomies 2.0\Shroomies 2.0\obj\Debug\netstandard2.0\refint\Shroomies 2.0.dll
+C:\Users\Bryan\source\repos\Shroomies 2.0\Shroomies 2.0\Shroomies 2.0\obj\Debug\netstandard2.0\Shroomies 2.0.pdb

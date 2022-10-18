@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shroomies 2.0.Android", "Shroomies 2.0\Shroomies 2.0.Android\Shroomies 2.0.Android.csproj", "{0E0DEFAE-38C5-4BA7-B7D3-4D70462263DA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shroomies 2.0", "Shroomies 2.0\Shroomies 2.0\Shroomies 2.0.csproj", "{0233022E-62CA-4007-969C-CABA998F9B69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E0DEFAE-38C5-4BA7-B7D3-4D70462263DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E0DEFAE-38C5-4BA7-B7D3-4D70462263DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E0DEFAE-38C5-4BA7-B7D3-4D70462263DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E0DEFAE-38C5-4BA7-B7D3-4D70462263DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E0DEFAE-38C5-4BA7-B7D3-4D70462263DA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{0233022E-62CA-4007-969C-CABA998F9B69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0233022E-62CA-4007-969C-CABA998F9B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0233022E-62CA-4007-969C-CABA998F9B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0233022E-62CA-4007-969C-CABA998F9B69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC15021D-A90F-413E-962A-F15C48E93BF5}
+	EndGlobalSection
+EndGlobal
